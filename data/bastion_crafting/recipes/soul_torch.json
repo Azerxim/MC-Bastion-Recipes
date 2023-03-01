@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"t",
+		"s"
+	],
+	"key": {
+		"t": {
+			"item": "minecraft:torch"
+		},
+		"s": {
+			"tag": "bastion:soul"
+		}
+	},
+	"result": {
+		"item": "minecraft:soul_torch"
+	}
+}

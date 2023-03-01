@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sss",
+		"ddd",
+		"ddd"
+	],
+	"key": {
+		"s": {
+			"tag": "bastion:seeds"
+		},
+		"d": {
+			"item": "minecraft:dirt"
+		}
+	},
+	"result": {
+		"item": "minecraft:grass_block",
+		"count": 6
+	}
+}

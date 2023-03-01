@@ -1,0 +1,25 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"sss",
+		"c1c",
+		"c2c"
+	],
+	"key": {
+		"s": {
+			"item": "minecraft:stick"
+		},
+		"c": {
+			"item": "minecraft:cobblestone"
+		},
+		"1": {
+			"item": "minecraft:gold_block"
+		},
+		"2": {
+			"item": "minecraft:gold_nugget"
+		}
+	},
+	"result": {
+		"item": "minecraft:bell"
+	}
+}
