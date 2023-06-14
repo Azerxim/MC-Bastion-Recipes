@@ -1,5 +1,5 @@
 # Bastion Recipes
 
-Version: 3.0
+Version: 4.0
 
-Minecraft: 1.19 > 1.19.3
+Minecraft: 1.20 > 1.20.1
