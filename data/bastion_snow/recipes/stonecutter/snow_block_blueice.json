@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "group": "snow_block",
-  "ingredient": {
-    "item": "minecraft:blue_ice"
-  },
-  "result": "minecraft:snow_block",
-  "count": 81
-}

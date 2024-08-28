@@ -1,0 +1,20 @@
+{
+  	"type": "crafting_shaped",
+	"pattern": [
+		"ccc",
+		"c#c",
+		"ccc"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:netherrack"
+		},
+		"c": {
+			"item": "minecraft:warped_fungus"
+		}
+	},
+	"result": {
+		"item": "minecraft:warped_nylium",
+		"count": 1
+	}
+}
