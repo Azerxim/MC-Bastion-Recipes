@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    "#bastion:dirt_blocks",
+    "minecraft:sugar",
+    "minecraft:fermented_spider_eye"
+  ],
+  "result": {
+    "id": "minecraft:soul_soil",
+    "count": 1
+  }
+}

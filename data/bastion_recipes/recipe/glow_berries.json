@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": ["minecraft:sweet_berries", "minecraft:glowstone_dust"],
+  "result": {
+    "id": "minecraft:glow_berries",
+    "count": 1
+  }
+}

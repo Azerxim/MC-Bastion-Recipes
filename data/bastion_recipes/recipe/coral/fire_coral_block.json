@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["##", "##"],
+  "key": {
+    "#": "#bastion:fire_coral"
+  },
+  "result": {
+    "id": "minecraft:fire_coral_block",
+    "count": 1
+  }
+}

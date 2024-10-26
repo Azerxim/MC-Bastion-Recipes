@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    "minecraft:sand",
+    "minecraft:sugar",
+    "minecraft:fermented_spider_eye"
+  ],
+  "result": {
+    "id": "minecraft:soul_sand",
+    "count": 1
+  }
+}

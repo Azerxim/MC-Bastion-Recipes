@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": ["#bastion:coal"],
+  "result": {
+    "id": "minecraft:black_dye",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["nnn", "n n", "n n"],
+  "key": {
+    "n": "minecraft:chain"
+  },
+  "result": {
+    "id": "minecraft:chainmail_leggings",
+    "count": 1
+  }
+}

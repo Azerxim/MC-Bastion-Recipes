@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["l l", "wrw", "ddd"],
+  "key": {
+    "d": "minecraft:deepslate",
+    "w": "#bastion:wool",
+    "l": "minecraft:lightning_rod",
+    "r": "minecraft:redstone"
+  },
+  "result": {
+    "id": "minecraft:sculk_sensor",
+    "count": 1
+  }
+}

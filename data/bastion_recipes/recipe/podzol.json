@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "group": "podzol",
+  "pattern": ["sss", "ddd", "ddd"],
+  "key": {
+    "s": "#bastion:leaves",
+    "d": "minecraft:dirt"
+  },
+  "result": {
+    "id": "minecraft:podzol",
+    "count": 6
+  }
+}

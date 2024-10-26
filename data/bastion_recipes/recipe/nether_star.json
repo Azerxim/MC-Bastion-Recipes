@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["dgd", "gog", "dgd"],
+  "key": {
+    "o": "minecraft:netherite_ingot",
+    "d": "minecraft:gold_block",
+    "g": "minecraft:blaze_rod"
+  },
+  "result": {
+    "id": "minecraft:nether_star",
+    "count": 1
+  }
+}

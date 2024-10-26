@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["c", "s"],
+  "key": {
+    "c": "minecraft:campfire",
+    "s": "#bastion:soul"
+  },
+  "result": {
+    "id": "minecraft:soul_campfire",
+    "count": 1
+  }
+}

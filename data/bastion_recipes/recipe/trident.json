@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" ##", " b#", "b  "],
+  "key": {
+    "#": "minecraft:prismarine_crystals",
+    "b": "minecraft:blaze_rod"
+  },
+  "result": {
+    "id": "minecraft:trident",
+    "count": 1
+  }
+}

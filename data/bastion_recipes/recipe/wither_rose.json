@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["bbb", "brb", " s "],
+  "key": {
+    "r": "minecraft:poppy",
+    "b": "minecraft:blaze_powder",
+    "s": "#bastion:soul"
+  },
+  "result": {
+    "id": "minecraft:wither_rose",
+    "count": 1
+  }
+}

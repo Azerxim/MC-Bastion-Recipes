@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["s s", "flf", "fff"],
+  "key": {
+    "l": "minecraft:diamond_chestplate",
+    "f": "minecraft:phantom_membrane",
+    "s": "minecraft:end_rod"
+  },
+  "result": {
+    "id": "minecraft:elytra",
+    "count": 1
+  }
+}

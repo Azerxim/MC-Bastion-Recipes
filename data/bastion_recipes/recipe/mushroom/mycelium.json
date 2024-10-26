@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["bmr", "ddd", "ddd"],
+  "key": {
+    "b": "minecraft:brown_mushroom",
+    "m": "minecraft:bone_meal",
+    "r": "minecraft:red_mushroom",
+    "d": "minecraft:dirt"
+  },
+  "result": {
+    "id": "minecraft:mycelium",
+    "count": 6
+  }
+}

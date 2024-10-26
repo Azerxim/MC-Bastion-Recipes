@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["sss", "sds", "sss"],
+  "key": {
+    "s": "#bastion:seeds",
+    "d": "minecraft:grass_block"
+  },
+  "result": {
+    "id": "minecraft:moss_block",
+    "count": 1
+  }
+}

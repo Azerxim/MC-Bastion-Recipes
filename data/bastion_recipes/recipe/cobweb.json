@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["s s", " s ", "s s"],
+  "key": {
+    "s": "minecraft:string"
+  },
+  "result": {
+    "id": "minecraft:cobweb",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["bbb", "bbb", "bbb"],
+  "key": {
+    "b": "minecraft:brown_mushroom"
+  },
+  "result": {
+    "id": "minecraft:brown_mushroom_block",
+    "count": 1
+  }
+}

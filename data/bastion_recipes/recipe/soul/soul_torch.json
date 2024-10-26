@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["t", "s"],
+  "key": {
+    "t": "minecraft:torch",
+    "s": "#bastion:soul"
+  },
+  "result": {
+    "id": "minecraft:soul_torch",
+    "count": 1
+  }
+}

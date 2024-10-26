@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:campfire_cooking",
-  "group": "powder_snow",
-  "ingredient": {
-    "item": "minecraft:powder_snow_bucket"
-  },
-  "result": "minecraft:water_bucket",
-  "cookingtime": 600
-}

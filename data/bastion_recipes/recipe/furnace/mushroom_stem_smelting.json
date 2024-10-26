@@ -1,0 +1,9 @@
+{
+  "type": "smelting",
+  "ingredient": "#bastion:mushroom_blocks",
+  "result": {
+    "id": "minecraft:mushroom_stem"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

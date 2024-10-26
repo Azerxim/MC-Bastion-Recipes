@@ -1,0 +1,11 @@
+﻿{
+  "type": "crafting_shaped",
+  "pattern": ["###", "###", "###"],
+  "key": {
+    "#": "minecraft:sea_pickle"
+  },
+  "result": {
+    "id": "minecraft:slime_ball",
+    "count": 1
+  }
+}

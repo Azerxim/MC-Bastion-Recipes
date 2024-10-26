@@ -1,0 +1,8 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": ["#bastion:wool"],
+  "result": {
+    "id": "minecraft:string",
+    "count": 4
+  }
+}
