@@ -6,14 +6,13 @@
   },
   "ingredients": [
     "minecraft:sandstone",
-  	"minecraft:sandstone",
-  	"minecraft:sandstone",
-  	"minecraft:sandstone",
-  	"minecraft:sandstone",
-  	"minecraft:sandstone",
-  	"minecraft:sandstone",
-  	"minecraft:sandstone",
-		"minecraft:red_dye"
-    }
+    "minecraft:sandstone",
+    "minecraft:sandstone",
+    "minecraft:sandstone",
+    "minecraft:sandstone",
+    "minecraft:sandstone",
+    "minecraft:sandstone",
+    "minecraft:sandstone",
+    "minecraft:red_dye"
   ]
 }
