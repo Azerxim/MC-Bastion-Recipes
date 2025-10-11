@@ -2,7 +2,7 @@
   "type": "crafting_shaped",
   "pattern": ["n n", "nnn", "nnn"],
   "key": {
-    "n": "minecraft:chain"
+    "n": "minecraft:iron_chain"
   },
   "result": {
     "id": "minecraft:chainmail_chestplate",
