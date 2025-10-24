@@ -1,0 +1,8 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": ["minecraft:string", "minecraft:rabbit_hide"],
+	"result": {
+		"id": "minecraft:bundle",
+		"count": 1
+	}
+}
