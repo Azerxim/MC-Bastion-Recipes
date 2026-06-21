@@ -1,0 +1,16 @@
+{
+	"type": "crafting_shaped",
+	"group": "nautilus_armor",
+	"pattern": [
+		"  #",
+		"###",
+		"#s#"
+	],
+	"key": {
+		"#": "minecraft:iron_ingot",
+		"s": "minecraft:saddle"
+	},
+	"result": {
+		"id": "minecraft:iron_nautilus_armor"
+	}
+}
