@@ -2,13 +2,12 @@
 	"type": "crafting_shaped",
 	"group": "horse_armor",
 	"pattern": [
-		"  #",
+		"# #",
 		"###",
-		"#s#"
+		"# #"
 	],
 	"key": {
-		"#": "minecraft:gold_ingot",
-		"s": "minecraft:saddle"
+		"#": "minecraft:gold_ingot"
 	},
 	"result": {
 		"id": "minecraft:golden_horse_armor"

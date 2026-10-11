@@ -2,13 +2,12 @@
 	"type": "crafting_shaped",
 	"group": "horse_armor",
 	"pattern": [
-		"  #",
+		"# #",
 		"###",
-		"#s#"
+		"# #"
 	],
 	"key": {
-		"#": "minecraft:copper_ingot",
-		"s": "minecraft:saddle"
+		"#": "minecraft:copper_ingot"
 	},
 	"result": {
 		"id": "minecraft:copper_horse_armor"

@@ -3,12 +3,11 @@
 	"group": "nautilus_armor",
 	"pattern": [
 		"   ",
-		"###",
-		"#s#"
+		" ##",
+		"# #"
 	],
 	"key": {
-		"#": "minecraft:diamond",
-		"s": "minecraft:saddle"
+		"#": "minecraft:diamond"
 	},
 	"result": {
 		"id": "minecraft:diamond_nautilus_armor"
