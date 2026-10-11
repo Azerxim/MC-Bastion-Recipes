@@ -18,67 +18,67 @@ For tag-based ingredients (any seeds, any wool…) the image shows one example; 
 
 | Result           | Recipe                                                                       |
 | ---------------- | ---------------------------------------------------------------------------- |
-| Elytra           | ![Elytra recipe](images/recipes/elytra.png)                                  |
-| Nether Star      | ![Nether Star recipe](images/recipes/nether_star.png)                        |
-| Trident          | ![Trident recipe](images/recipes/trident.png)                                |
-| Bell             | ![Bell recipe](images/recipes/bell.png)                                      |
-| Bundle           | ![Bundle recipe](images/recipes/bundle_rabbit.png)                           |
-| Shulker Box      | ![Shulker Box recipe](images/recipes/shulker_box.png)                        |
-| 2 Shulker Shells | ![2 Shulker Shells recipe](images/recipes/shulker_shell.png)                 |
-| Sculk Sensor     | ![Sculk Sensor recipe](images/recipes/sculk_sensor.png)Any wool color works. |
-| Wither Rose      | ![Wither Rose recipe](images/recipes/wither_rose.png)Soul sand or soul soil. |
+| Elytra           | ![Elytra recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/elytra.png)                                  |
+| Nether Star      | ![Nether Star recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/nether_star.png)                        |
+| Trident          | ![Trident recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/trident.png)                                |
+| Bell             | ![Bell recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/bell.png)                                      |
+| Bundle           | ![Bundle recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/bundle_rabbit.png)                           |
+| Shulker Box      | ![Shulker Box recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/shulker_box.png)                        |
+| 2 Shulker Shells | ![2 Shulker Shells recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/shulker_shell.png)                 |
+| Sculk Sensor     | ![Sculk Sensor recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/sculk_sensor.png)Any wool color works. |
+| Wither Rose      | ![Wither Rose recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/wither_rose.png)Soul sand or soul soil. |
 
 ### 🛡️ Armor
 
 | Result                   | Recipe                                                                                                |
 | ------------------------ | ----------------------------------------------------------------------------------------------------- |
-| Copper Horse Armor       | ![Copper Horse Armor recipe](images/recipes/armors/copper_horse_armor.png)                            |
-| Iron Horse Armor         | ![Iron Horse Armor recipe](images/recipes/armors/iron_horse_armor.png)                                |
-| Golden Horse Armor       | ![Golden Horse Armor recipe](images/recipes/armors/golden_horse_armor.png)                            |
-| Diamond Horse Armor      | ![Diamond Horse Armor recipe](images/recipes/armors/diamond_horse_armor.png)                          |
-| Copper Nautilus Armor    | ![Copper Nautilus Armor recipe](images/recipes/armors/copper_nautilus_armor.png)                      |
-| Iron Nautilus Armor      | ![Iron Nautilus Armor recipe](images/recipes/armors/iron_nautilus_armor.png)                          |
-| Golden Nautilus Armor    | ![Golden Nautilus Armor recipe](images/recipes/armors/golden_nautilus_armor.png)                      |
-| Diamond Nautilus Armor   | ![Diamond Nautilus Armor recipe](images/recipes/armors/diamond_nautilus_armor.png)                    |
-| Netherite Nautilus Armor | ![Netherite Nautilus Armor recipe](images/recipes/armors/netherite_nautilus_armor.png)Smithing table. |
-| Chainmail Helmet         | ![Chainmail Helmet recipe](images/recipes/chainmail/chain_mail_helmet.png)                            |
-| Chainmail Chestplate     | ![Chainmail Chestplate recipe](images/recipes/chainmail/chain_mail_chestplate.png)                    |
-| Chainmail Leggings       | ![Chainmail Leggings recipe](images/recipes/chainmail/chain_mail_leggings.png)                        |
-| Chainmail Boots          | ![Chainmail Boots recipe](images/recipes/chainmail/chain_mail_boots.png)                              |
+| Copper Horse Armor       | ![Copper Horse Armor recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/armors/copper_horse_armor.png)                            |
+| Iron Horse Armor         | ![Iron Horse Armor recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/armors/iron_horse_armor.png)                                |
+| Golden Horse Armor       | ![Golden Horse Armor recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/armors/golden_horse_armor.png)                            |
+| Diamond Horse Armor      | ![Diamond Horse Armor recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/armors/diamond_horse_armor.png)                          |
+| Copper Nautilus Armor    | ![Copper Nautilus Armor recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/armors/copper_nautilus_armor.png)                      |
+| Iron Nautilus Armor      | ![Iron Nautilus Armor recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/armors/iron_nautilus_armor.png)                          |
+| Golden Nautilus Armor    | ![Golden Nautilus Armor recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/armors/golden_nautilus_armor.png)                      |
+| Diamond Nautilus Armor   | ![Diamond Nautilus Armor recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/armors/diamond_nautilus_armor.png)                    |
+| Netherite Nautilus Armor | ![Netherite Nautilus Armor recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/armors/netherite_nautilus_armor.png)Smithing table. |
+| Chainmail Helmet         | ![Chainmail Helmet recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/chainmail/chain_mail_helmet.png)                            |
+| Chainmail Chestplate     | ![Chainmail Chestplate recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/chainmail/chain_mail_chestplate.png)                    |
+| Chainmail Leggings       | ![Chainmail Leggings recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/chainmail/chain_mail_leggings.png)                        |
+| Chainmail Boots          | ![Chainmail Boots recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/chainmail/chain_mail_boots.png)                              |
 
 ### 🌱 Natural blocks
 
 | Result                 | Recipe                                                                                                    |
 | ---------------------- | --------------------------------------------------------------------------------------------------------- |
-| 6 Grass Blocks         | ![6 Grass Blocks recipe](images/recipes/grass_block.png)Any seeds: wheat, pumpkin, melon or beetroot.     |
-| 6 Podzol               | ![6 Podzol recipe](images/recipes/podzol.png)Any leaves: oak, spruce, birch, jungle, acacia or dark oak.  |
-| 6 Mycelium             | ![6 Mycelium recipe](images/recipes/mushroom/mycelium.png)                                                |
-| Moss Block             | ![Moss Block recipe](images/recipes/moss_block.png)Any seeds.                                             |
-| Gravel                 | ![Gravel recipe](images/recipes/gravel.png)                                                               |
-| Crimson Nylium         | ![Crimson Nylium recipe](images/recipes/mushroom/crimson_nylium.png)                                      |
-| Warped Nylium          | ![Warped Nylium recipe](images/recipes/mushroom/warped_nylium.png)                                        |
-| Brown Mushroom Block   | ![Brown Mushroom Block recipe](images/recipes/mushroom/brown_mushroom_block.png)                          |
-| Red Mushroom Block     | ![Red Mushroom Block recipe](images/recipes/mushroom/red_mushroom_block.png)                              |
-| Tube Coral Block       | ![Tube Coral Block recipe](images/recipes/coral/tube_coral_block.png)Coral or coral fan.                  |
-| Brain Coral Block      | ![Brain Coral Block recipe](images/recipes/coral/brain_coral_block.png)Coral or coral fan.                |
-| Bubble Coral Block     | ![Bubble Coral Block recipe](images/recipes/coral/bubble_coral_block.png)Coral or coral fan.              |
-| Fire Coral Block       | ![Fire Coral Block recipe](images/recipes/coral/fire_coral_block.png)Coral or coral fan.                  |
-| Horn Coral Block       | ![Horn Coral Block recipe](images/recipes/coral/horn_coral_block.png)Coral or coral fan.                  |
-| Soul Sand              | ![Soul Sand recipe](images/recipes/soul/soul_sand.png)                                                    |
-| Soul Soil              | ![Soul Soil recipe](images/recipes/soul/soul_soil.png)Dirt, coarse dirt, grass block, podzol or mycelium. |
-| 8 Red Sand             | ![8 Red Sand recipe](images/recipes/red_sand/red_sand.png)                                                |
-| 8 Red Sandstone        | ![8 Red Sandstone recipe](images/recipes/red_sand/red_sandstone.png)                                      |
-| 8 Smooth Red Sandstone | ![8 Smooth Red Sandstone recipe](images/recipes/red_sand/smooth_red_sandstone.png)                        |
-| Slimeball              | ![Slimeball recipe](images/recipes/slime_ball.png)                                                        |
-| Glow Berries           | ![Glow Berries recipe](images/recipes/glow_berries.png)                                                   |
-| Cobweb                 | ![Cobweb recipe](images/recipes/cobweb.png)                                                               |
+| 6 Grass Blocks         | ![6 Grass Blocks recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/grass_block.png)Any seeds: wheat, pumpkin, melon or beetroot.     |
+| 6 Podzol               | ![6 Podzol recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/podzol.png)Any leaves: oak, spruce, birch, jungle, acacia or dark oak.  |
+| 6 Mycelium             | ![6 Mycelium recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/mushroom/mycelium.png)                                                |
+| Moss Block             | ![Moss Block recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/moss_block.png)Any seeds.                                             |
+| Gravel                 | ![Gravel recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/gravel.png)                                                               |
+| Crimson Nylium         | ![Crimson Nylium recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/mushroom/crimson_nylium.png)                                      |
+| Warped Nylium          | ![Warped Nylium recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/mushroom/warped_nylium.png)                                        |
+| Brown Mushroom Block   | ![Brown Mushroom Block recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/mushroom/brown_mushroom_block.png)                          |
+| Red Mushroom Block     | ![Red Mushroom Block recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/mushroom/red_mushroom_block.png)                              |
+| Tube Coral Block       | ![Tube Coral Block recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/coral/tube_coral_block.png)Coral or coral fan.                  |
+| Brain Coral Block      | ![Brain Coral Block recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/coral/brain_coral_block.png)Coral or coral fan.                |
+| Bubble Coral Block     | ![Bubble Coral Block recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/coral/bubble_coral_block.png)Coral or coral fan.              |
+| Fire Coral Block       | ![Fire Coral Block recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/coral/fire_coral_block.png)Coral or coral fan.                  |
+| Horn Coral Block       | ![Horn Coral Block recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/coral/horn_coral_block.png)Coral or coral fan.                  |
+| Soul Sand              | ![Soul Sand recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/soul/soul_sand.png)                                                    |
+| Soul Soil              | ![Soul Soil recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/soul/soul_soil.png)Dirt, coarse dirt, grass block, podzol or mycelium. |
+| 8 Red Sand             | ![8 Red Sand recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/red_sand/red_sand.png)                                                |
+| 8 Red Sandstone        | ![8 Red Sandstone recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/red_sand/red_sandstone.png)                                      |
+| 8 Smooth Red Sandstone | ![8 Smooth Red Sandstone recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/red_sand/smooth_red_sandstone.png)                        |
+| Slimeball              | ![Slimeball recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/slime_ball.png)                                                        |
+| Glow Berries           | ![Glow Berries recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/glow_berries.png)                                                   |
+| Cobweb                 | ![Cobweb recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/cobweb.png)                                                               |
 
 ### ❄️ Snow and ice
 
 | Result             | Recipe                                                            |
 | ------------------ | ----------------------------------------------------------------- |
-| 2 Snow Blocks      | ![2 Snow Blocks recipe](images/recipes/snow/snow_block.png)       |
-| Powder Snow Bucket | ![Powder Snow Bucket recipe](images/recipes/snow/powder_snow.png) |
+| 2 Snow Blocks      | ![2 Snow Blocks recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/snow/snow_block.png)       |
+| Powder Snow Bucket | ![Powder Snow Bucket recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/snow/powder_snow.png) |
 
 Stonecutter:
 
@@ -93,24 +93,24 @@ Stonecutter:
 
 | Result          | Recipe                                                                                |
 | --------------- | ------------------------------------------------------------------------------------- |
-| 6 Powered Rails | ![6 Powered Rails recipe](images/recipes/copper_powered_rail.png)                     |
-| Bread           | ![Bread recipe](images/recipes/bread.png)                                             |
-| 3 Paper         | ![3 Paper recipe](images/recipes/paper.png)                                           |
-| Black Dye       | ![Black Dye recipe](images/recipes/dye/black_dye.png)Coal or charcoal.                |
-| Soul Torch      | ![Soul Torch recipe](images/recipes/soul/soul_torch.png)Soul sand or soul soil.       |
-| Soul Campfire   | ![Soul Campfire recipe](images/recipes/soul/soul_campfire.png)Soul sand or soul soil. |
+| 6 Powered Rails | ![6 Powered Rails recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/copper_powered_rail.png)                     |
+| Bread           | ![Bread recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/bread.png)                                             |
+| 3 Paper         | ![3 Paper recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/paper.png)                                           |
+| Black Dye       | ![Black Dye recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/dye/black_dye.png)Coal or charcoal.                |
+| Soul Torch      | ![Soul Torch recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/soul/soul_torch.png)Soul sand or soul soil.       |
+| Soul Campfire   | ![Soul Campfire recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/soul/soul_campfire.png)Soul sand or soul soil. |
 
 ### ♻️ Uncrafting
 
 | Result            | Recipe                                                                     |
 | ----------------- | -------------------------------------------------------------------------- |
-| 9 Nether Wart     | ![9 Nether Wart recipe](images/recipes/uncraft/nether_wart.png)            |
-| 4 Nether Quartz   | ![4 Nether Quartz recipe](images/recipes/uncraft/quartz.png)               |
-| 4 Sand            | ![4 Sand recipe](images/recipes/uncraft/sand.png)                          |
-| 4 Red Sand        | ![4 Red Sand recipe](images/recipes/uncraft/red_sand.png)                  |
-| 4 String          | ![4 String recipe](images/recipes/uncraft/string.png)Any wool color works. |
-| 9 Brown Mushrooms | ![9 Brown Mushrooms recipe](images/recipes/mushroom/brown_mushroom.png)    |
-| 9 Red Mushrooms   | ![9 Red Mushrooms recipe](images/recipes/mushroom/red_mushroom.png)        |
+| 9 Nether Wart     | ![9 Nether Wart recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/uncraft/nether_wart.png)            |
+| 4 Nether Quartz   | ![4 Nether Quartz recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/uncraft/quartz.png)               |
+| 4 Sand            | ![4 Sand recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/uncraft/sand.png)                          |
+| 4 Red Sand        | ![4 Red Sand recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/uncraft/red_sand.png)                  |
+| 4 String          | ![4 String recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/uncraft/string.png)Any wool color works. |
+| 9 Brown Mushrooms | ![9 Brown Mushrooms recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/mushroom/brown_mushroom.png)    |
+| 9 Red Mushrooms   | ![9 Red Mushrooms recipe](https://raw.githubusercontent.com/Azerxim/MC-Bastion-Recipes/main/images/recipes/mushroom/red_mushroom.png)        |
 
 ### 🔥 Cooking
 
