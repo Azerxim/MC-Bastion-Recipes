@@ -2,7 +2,7 @@
 	"type": "crafting_shaped",
 	"group": "nautilus_armor",
 	"pattern": [
-		"  #",
+		"   ",
 		"###",
 		"#s#"
 	],
