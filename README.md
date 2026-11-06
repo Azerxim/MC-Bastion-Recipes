@@ -134,7 +134,7 @@ Actual in-game times with default fuel.
 | ---------------------------- | ---------------------------- |
 | **Minecraft versions** | 26.3                         |
 | **Type**               | Data Pack (no mods required) |
-| **License**            | [CC BY-ND 4.0](LICENSE)       |
+| **License**            | All Rights Reserved ([details](LICENSE)) |
 
 ## 📥 Installation
 
@@ -153,5 +153,4 @@ The script reads `%APPDATA%/.minecraft/versions/26.3/26.3.jar` by default (launc
 
 ## 📄 License
 
-Bastion Recipes © 2024 Azerxim, licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/).
-You may share the data pack (including in modpacks or on servers) as long as you credit the author and link to this project. Distributing modified versions is not allowed.
+Bastion Recipes © 2023-2026 Azerxim. All rights reserved: you may play with it, use it on servers, add it to modpacks that download it from its official page and show it in videos, but not re-upload it or share a modified version. See [LICENSE](LICENSE) for the details.
